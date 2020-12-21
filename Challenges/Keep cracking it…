@@ -1,0 +1,17 @@
+
+Keep cracking it…
+3000
+CLOUD
+0 SOLVES
+
+DESCRIPTION
+Our agents intercepted one of COViD’s messages. We managed to decipher the message, but it seems that part of the data is not recoverable! Can you figure out what we can find inside COViD's cloud environment? We need to know what secrets are out there! Check out the note left in kilat-developers-bucket.
+
+Access Key: 32O3CMV4NPCY
+Secret Key: 6rhu3jpC1L3lV/fKJfvmEn4MKo7hue+gXK786t5Z
+
+This challenge:
+- Is eligible for Awesome Write-ups Award
+
+Addendum
+- Let me give you some hints on this. AWS keys have a standard format. I think from this given format, you can eliminate that it is not a session key. There is a common 4 letter prefix to AWS access key. {prefix}32O3CMV4NPCY{derived-value}

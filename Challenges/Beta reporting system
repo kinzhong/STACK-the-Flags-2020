@@ -1,0 +1,17 @@
+Beta reporting system
+995
+BINARY EXPLOITATION
+10 SOLVES
+
+DESCRIPTION
+The developer working for COViD that we arrested refused to talk, but we found a program that he was working on his laptop. His notes have led us to the server where the beta is currently being hosted. It is likely that there are bugs in it as it is a beta.
+
+Note: ASLR is enabled on the OS. PIE is not enabled.
+
+Please view this Document for download instructions.
+
+nc yhi8bpzolrog3yw17fe0wlwrnwllnhic.alttablabs.sg 30121
+
+This challenge:
+- Is eligible for Awesome Write-ups Award
+

@@ -1,0 +1,23 @@
+What is this weird program?
+2000
+REVERSE ENGINEERING
+0 SOLVES
+
+DESCRIPTION
+We’ve intercepted this transmission between Oswell and COViD. It looks like a small program that allows them to communicate secretly with a key known only to them. Unfortunately the program that we have is lacking the key. It is likely that this program can be Tried Online with an Interpreter with a language that has been Extended.
+
+⎕←{,⍉3↑(⎕D,⎕A)[1+16 16⊤¯0+'UTF-8'⎕UCS ⍵]} ⎕UCS⊥≠⌿⍤2⊤↑⎕UCS¨ ({⎕A[26|13+⎕A⍳⍵]}@(∊∘⎕A) '19T)8H+') ''
+
+We have some ideas on how to find the key. It is known that Oswell has a bad memory, so it is likely that the key is available somewhere. It may also be possible to brute force the key instead.
+
+Note: Do put the flag into govtech-csg{} before submitting
+
+Please view this Document for download instructions.
+
+This challenge:
+- Is eligible for Awesome Write-ups Award
+- Prerequisite for Mastery Award - Master of Reverse Engineering & Exploitation
+
+Addendum
+- You can use the organisation's website from "Who are the possible kidnappers". Some information from the organisation's website is useful in solving this challenge. There is no longer a need to complete that OSINT challenge to unlock this challenge.
+

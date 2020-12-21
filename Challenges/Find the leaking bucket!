@@ -1,0 +1,22 @@
+
+Find the leaking bucket!
+992
+CLOUD
+21 SOLVES
+
+DESCRIPTION
+It was made known to us that agents of COViD are exfiltrating data to a hidden S3 bucket in AWS! We do not know the bucket name! One tip from our experienced officers is that bucket naming often uses common words related to the company’s business.
+
+Do what you can! Find that hidden S3 bucket (in the format “word1-word2-s4fet3ch”) and find out what was exfiltrated!
+
+Company Website
+
+This challenge:
+- Unlocks other challenge(s)
+- Is eligible for Awesome Write-ups Award
+- Prerequisite for Mastery Award - Cloud Guru
+
+Please ignore these troll buckets:
+- s3://intelligent-intelligent-s4fet3ch/
+- s3://steve-jobs-s4fet4ch/
+- s3://mobile-cybersecurity-s4fet3ch/

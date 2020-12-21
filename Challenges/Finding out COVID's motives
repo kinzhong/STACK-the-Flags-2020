@@ -1,0 +1,18 @@
+Finding out COVID's motives
+1000
+BINARY EXPLOITATION
+1 SOLVES
+
+DESCRIPTION
+The exposed service is the Panjang's district gateway which provides services from the backbone network to the public. However, we are not sure whether the service has been comrpomised by the COVID. Your task is to help us test for any vulnerabilities on the exposed service and give us assurance that it has not been compromised.
+
+Please view this Document for download instructions.
+
+Note: ASLR and DEP are enabled. Flag is on the target server filesystem.
+
+Submission Instructions
+
+This challenge:
+- Is eligible for Awesome Write-ups Award
+
+AVAILABLE HINTS

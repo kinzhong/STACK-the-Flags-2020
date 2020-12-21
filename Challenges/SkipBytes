@@ -1,0 +1,18 @@
+SkipBytes
+2000
+BINARY EXPLOITATION
+0 SOLVES
+
+DESCRIPTION
+We have received various alerts from our SOC that the internal email repository have received multiple malicious files uploads. The management believe that our internal network is likely breached and it could be possible that COVID are attacking our email repository. Help us test whether there are any vulnerabilities on the email repository to give us assurance that they have not compromised the email repository.
+
+Note: ASLR is enabled on the OS and DEP is disabled at the binary. Flag is on the target server filesystem.
+
+Please view this Document for download instructions.
+
+Submission Instructions
+
+This challenge:
+- Is eligible for Awesome Write-ups Award
+- Prerequisite for Mastery Award - Master of Reverse Engineering & Exploitation
+

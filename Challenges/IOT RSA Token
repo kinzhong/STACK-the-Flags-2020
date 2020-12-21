@@ -1,0 +1,16 @@
+IOT RSA Token
+3000
+INTERNET OF THINGS
+1 SOLVES
+
+DESCRIPTION
+We were able to get our hands on a RSA token that is used as 2FA for a website. From the token, we sniffed some data (capture.logicdata) and took some photos of the token. Lastly, we found a key written at the back of the token, the contents of which we placed into key.txt. Unfortunately, we dropped the token in the toilet bowl and it is no longer working. Using the data sniffed and the photos (rsa_token_setup.png and welcome_msg.png) taken, make sense of the data that is displayed on the rsa token, help us predict what the next rsa token will be!
+
+Please view this Document for download instructions.
+
+Login Page
+
+This challenge:
+- Unlocks other challenge(s)
+- Is eligible for Awesome Write-ups Award
+- Prerequisite for Mastery Award - IoT Crypto Expert

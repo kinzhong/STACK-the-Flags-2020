@@ -1,0 +1,19 @@
+Stop COViD's recruitment!
+2000
+BINARY EXPLOITATION
+2 SOLVES
+
+DESCRIPTION
+We got intelligence that COViD is hosting a program for recruiting agents on a remote server. This should be the same Linux binary that we found on one of his agent laptops.
+
+Note: ASLR is enabled on the OS. PIE is not enabled.
+
+Please view this Document for download instructions.
+
+nc yhi8bpzolrog3yw17fe0wlwrnwllnhic.alttablabs.sg 30131
+
+This challenge:
+- Is eligible for Awesome Write-ups Award
+- Prerequisite for Mastery Award - Master of Reverse Engineering & Exploitation
+
+AVAILABLE HINTS
